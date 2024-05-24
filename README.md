@@ -1,3 +1,5 @@
+https://amaholy.github.io/Rick-and-Morty-Api/
+
 # rick-and-morty-app
 
 ## Project setup
